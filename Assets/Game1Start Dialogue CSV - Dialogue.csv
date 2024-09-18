@@ -1,0 +1,55 @@
+,NPC_ID,Conversation_ID,Line_ID,Dialogue
+1,1,1,1,Hi there! We've been looking for you everyhere!
+2,1,1,2,There is some trouble brewing down by the docks. Go help my brother fend off these bandits.
+3,2,1,1,Have you seen my dog? I've looked everywhere for him.
+4,3,1,1,I need to ask of you a favour young hero.
+5,3,1,2,The bandit leader Oshun has stolen my prized cow. Without her I will never win the country fair.
+6,3,1,3,Please go to Mango Caves north of here and steal my beloved cow from Oshun.
+7,3,2,1,Thank you so much. Here; some coin for your time
+8,4,1,1,Wha'cha looking at scrub?
+9,5,1,1,My name was Suha.
+10,5,1,2,I was 25 years old.
+11,5,1,3,I killed my husband.
+12,5,1,4,I was hung two days later.
+13,5,1,5,I don't regret a thing.
+14,6,1,1,I wasn't born in the palace.
+15,6,1,2,I was born in a small place far away.
+16,6,1,3,I can't remember the name anymore.
+17,6,1,4,I was 11 years old when they came.
+18,6,1,5,I never saw my family again.
+19,7,1,1,This was a great hall.
+20,7,1,2,Many great men came here.
+21,7,1,3,I was told the things they discussed were important.
+22,7,1,4,Servants of all kinds bustled and worked here. Fighting to please the important men.
+23,7,1,5,"They labored away their precious hours. Each day, another tick of their life."
+24,7,1,6,Why did they do this to themselves? Were they forced to? What did the important men mean to them?
+25,7,1,7,"I remember once, I watched a woman have a seizure in this hall. She collapsed to the floor."
+26,7,1,8,It tooks 12 minutes for somebody to aid her. She died a few minutes later.
+27,7,1,9,I did nothing.
+28,8,1,1,This was the family room. Where children and relatives of the palace lounged.
+29,8,1,2,Servants would rear and nurture children here. 
+29.5,8,1,3,My children were raised here.
+30,8,1,4,The sounds of laughter filled the long hallway.
+31,8,1,5,I was forbidden from this place.
+32,9,1,1,Here was the agricultural annex.
+33,9,1,2,Scientists worked here every day to grow fruit and vegetables.
+34,9,1,3,"If the food was not deemed worthy of the palace, it was disgarded."
+35,9,1,4,"Out there, somewhere, I knew my family starved."
+36,10,1,1,This was the bathhouse. 
+37,10,1,2,Men and women of all classes would wash away their filth.
+38,10,1,3,The important men refused to bathe at the same time as their servants.
+39,10,1,4,The important men bathed for long times.
+40,10,1,5,"But, What sort of filth do important men have to wash away?"
+41,10,1,6,Not the kind that a bath can fix.
+42,11,1,1,I remember the sermons given here.
+43,11,1,2,We were told that everything is how it was supposed to be.
+44,11,1,3,This confounded me. How could a kind God let men starve?
+45,11,1,4,How could a cruel God allow joy?
+46,11,1,5,How could any God accept something else as divine?
+47,11,1,6,Kings are not divine.
+48,12,1,1,My name was Suha.
+49,12,1,2,I was 25 years old.
+50,12,1,3,I killed my husband.
+51,12,1,4,I was hung two days later.
+52,12,1,5,"A year later, my husband's kingdom fell."
+53,12,1,6,I don't regret a thing.
